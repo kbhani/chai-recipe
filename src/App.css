@@ -2,7 +2,9 @@
 
 .inglist {
   margin: 10px;
-  font-size: 20px;
+  font-size: 16.5px;
+  font-style: oblique;
+  color:rgba(21, 1, 85, 0.9);
   align-items: left;
 }
 
@@ -60,11 +62,12 @@
 
 
 .ingredient-container {
-  background-color: rgba(242, 242, 242 0); /* Add backgr
+  background-color: rgba(82, 0, 0, 0.3); /* Add backgr
   ound color for ingredient container */
+  
   padding: 20px;
   border-radius: 10px;
-  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.9);
   display: flex;
   flex-direction: column;
   align-items: center;
